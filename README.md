@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [making a steam game](https://steamcommunity.com/id/nihilisticprophet)
 
-- 🤝 I’m looking for help with [making a youtube videos](https://www.youtube.com/channel/UC03ltjLP8Ndnpyb0-lK0jYA)
+- 🤝 I’m looking for help with [making youtube videos](https://www.youtube.com/channel/UC03ltjLP8Ndnpyb0-lK0jYA)
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaydoncastro](https://github.com/jaydoncastro)
 
