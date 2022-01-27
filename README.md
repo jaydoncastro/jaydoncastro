@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jaydoncastro23@gmail.com**
 
-- 📄 Know more about [what I do for fun][https://steamcommunity.com/id/nihilisticprophet](https://steamcommunity.com/id/nihilisticprophet)
+- 📄 Know more about [what I do for fun](https://steamcommunity.com/id/nihilisticprophet)
 
 - ⚡ Fun fact **I think I am funny**
 
