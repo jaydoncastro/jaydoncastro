@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaydon</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on [making a steam game](https://steamcommunity.com/id/nihilisticprophet)
+- 🔭 I’m currently working on [being succsessful]
 
 - 🌱 I’m currently learning **how to code in multiple languages**
 
