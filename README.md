@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jaydon</h1>
 <h3 align="center"></h3>
 
-- 🔭 I’m currently working on being succsessful
+- 🙏 I’m currently working on being succsessful
 
 - 🌱 I’m currently learning **how to code in multiple languages**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know more about [what I do for fun](https://steamcommunity.com/id/nihilisticprophet)
 
-- ⚡ Fun fact **I think I am funny**
+- 🤣 Fun fact **I think I am funny**
 
 
 <h3 align="left">Languages and Tools:</h3>
